@@ -1,7 +1,7 @@
 import React from "react";
 
 const Offer = () => {
-    return <div>Offer</div>;
+    return <div>Offer section</div>;
 };
 
 export default Offer;
